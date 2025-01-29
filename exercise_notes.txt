@@ -1,0 +1,72 @@
+## CHEST
+1. **Bench Press**: A compound exercise using a barbell to work the chest, shoulders, and triceps. Great for building overall chest mass and upper body strength.
+2. **Incline Dumbbell Press**: Performed on an incline bench, this targets the upper portion of the pectoral muscles, improving the definition of the chest and enhancing overall balance.
+3. **Push-Ups**: A classic bodyweight exercise that strengthens the chest, shoulders, triceps, and core. It can be easily modified by changing hand placement or elevation.
+4. **Chest Fly (Dumbbells or Machine)**: Focuses on isolating the chest muscles by moving the arms in an arc. Ideal for stretching and contracting the chest for muscle growth.
+5. **Cable Crossover**: Using a cable machine, this exercise emphasizes the inner chest and allows for continuous tension throughout the movement, making it ideal for sculpting the chest.
+6. **Decline Bench Press**: Targets the lower part of the chest by using a decline bench. It shifts focus from the upper chest to provide well-rounded pectoral development.
+7. **Dumbbell Pullover**: Lying across a bench, this exercise works both the chest and lats, promoting ribcage expansion and improving shoulder mobility.
+8. **Pec Deck Machine**: A machine-based exercise that isolates the pectoral muscles, providing a controlled and consistent motion that helps to improve chest definition.
+9. **Landmine Press**: A unique pressing movement using a barbell anchored at one end, which works the chest, shoulders, and triceps, with a greater focus on upper chest development.
+10. **Svend Press (Plate Press)**: Involves pressing a weight plate with both hands, which helps activate the inner chest and improve shoulder stability.
+
+## BACK
+1. **Pull-Ups**: A bodyweight exercise primarily targeting the lats and upper back. Variations like wide grip or close grip help focus on different areas of the back and biceps.
+2. **Bent-Over Barbell Rows**: A fundamental barbell exercise that targets the back muscles, particularly the middle and lower traps, rhomboids, and lats, improving overall back thickness.
+3. **Lat Pulldowns**: Using a cable machine, this exercise mimics pull-ups and helps build width in the lats, making it ideal for beginners or those struggling with pull-ups.
+4. **Seated Cable Rows**: Targets the middle of the back and helps build thickness by pulling weight towards the body. It also works the lats, traps, and rear delts.
+5. **Deadlifts**: One of the most effective compound exercises, working the entire posterior chain, including the back, glutes, and hamstrings. It helps in building overall strength.
+6. **T-Bar Rows**: Performed with a barbell in a landmine attachment, this exercise targets the back muscles, particularly the lats and rhomboids, improving thickness and stability.
+7. **Single-Arm Dumbbell Rows**: Focuses on isolating the lats and mid-back muscles. It helps correct muscle imbalances and improves unilateral strength and stability.
+8. **Face Pulls**: A cable exercise that strengthens the rear delts, traps, and external rotators, improving shoulder stability and posture.
+9. **Straight Arm Pulldowns**: Using a cable machine, this exercise isolates the lats and improves the mind-muscle connection, helping to develop a wider back.
+10. **Hyperextensions (Back Extensions)**: Performed on a hyperextension bench, this exercise strengthens the lower back, glutes, and hamstrings, promoting overall spinal stability.
+
+## SHOULDERS
+1. **Overhead Barbell Press**: A compound exercise performed standing or seated, targeting all heads of the shoulder and triceps, contributing to overall shoulder mass and strength.
+2. **Dumbbell Shoulder Press**: Performed seated or standing, this exercise targets the deltoid muscles, focusing on improving shoulder stability and strength across all heads.
+3. **Lateral Raises**: A dumbbell exercise that focuses on the middle deltoid, which contributes to wider and more defined shoulders, creating a broader appearance.
+4. **Front Raises**: Targets the front deltoid (anterior head), helping in overall shoulder development and improving the aesthetics of the shoulder when viewed from the front.
+5. **Reverse Pec Deck**: A machine exercise that targets the rear deltoids and upper back, which helps in balancing shoulder development and improving posture.
+6. **Bent-Over Dumbbell Flyes**: Similar to the reverse pec deck, it targets the rear delts, helping with shoulder stabilization and preventing rounded shoulders.
+7. **Arnold Press**: Named after Arnold Schwarzenegger, this exercise adds a rotational component to the press, which engages the front deltoid for complete shoulder activation.
+8. **Upright Rows**: Works the traps and deltoids. This movement helps to develop the upper shoulders and traps, but should be performed with proper form to avoid shoulder impingement.
+9. **Cable Lateral Raises**: Provides constant tension on the middle delts throughout the movement, which helps in achieving well-rounded and broader shoulders.
+10. **Dumbbell Shrugs**: Targets the upper traps, helping to improve upper back strength and create a thicker, more muscular neck and shoulder area.
+
+## ARMS
+
+### BICEPS
+1. **Bicep Curls (Dumbbell or Barbell)**: The most common bicep exercise that focuses on building the peak and overall mass of the bicep muscle.
+2. **Hammer Curls**: Works the brachialis (the muscle beneath the biceps) and adds thickness to the arms while also targeting the forearms.
+3. **Concentration Curls**: Isolates the biceps by resting the arm on the thigh, ensuring focused contractions, leading to better peak development.
+4. **Preacher Curls**: Performed on a preacher bench, this exercise targets the lower portion of the biceps, creating a fuller look.
+5. **Incline Dumbbell Curls**: Performed on an incline bench, it stretches the biceps and allows for a deeper contraction, leading to greater muscle growth.
+6. **Cable Bicep Curls**: Using cables provides constant tension throughout the movement, which is ideal for maximizing hypertrophy in the biceps.
+7. **Zottman Curls**: Targets both the biceps and forearms with a rotational component, improving grip strength and overall arm development.
+8. **Reverse Curls**: Involves a pronated grip, which targets the brachialis and forearms, creating a thicker arm appearance.
+9. **Bicep Curl Machine**: A machine-based exercise that isolates the biceps and ensures proper form while providing consistent resistance.
+10. **Chin-Ups (focus on biceps)**: With a supinated grip, chin-ups engage the biceps as the primary mover, while also involving the back muscles.
+
+### TRICEPS
+1. **Tricep Dips**: A bodyweight exercise performed on parallel bars or a bench, targeting the triceps, chest, and shoulders.
+2. **Skull Crushers**: Lying tricep extensions using a barbell or dumbbells to target the long head of the triceps, leading to overall tricep mass.
+3. **Tricep Pushdowns (Cable)**: A popular cable exercise for isolating the triceps, performed with various attachments to emphasize different tricep heads.
+4. **Overhead Tricep Extension**: Performed with a dumbbell or cable, this movement works the long head of the triceps, helping in arm development.
+5. **Close-Grip Bench Press**: A compound movement targeting the triceps and chest, offering both size and strength benefits for the upper body.
+6. **Tricep Kickbacks**: Uses dumbbells or cables to isolate and contract the triceps fully, making it great for definition and toning.
+7. **Diamond Push-Ups**: A bodyweight exercise focusing on tricep engagement by keeping hands close together in a diamond shape.
+8. **Bench Dips**: Utilizes a bench to isolate the triceps, providing an effective bodyweight option for building arm strength.
+9. **Cable Overhead Extensions**: A cable variation of the overhead tricep extension that targets the long head of the triceps with constant tension.
+10. **Dumbbell Tricep Extensions**: Can be performed seated or standing, working all three heads of the triceps for balanced arm development.
+
+## LEGS
+
+### QUADS
+1. **Barbell Squats**: The ultimate lower body exercise that targets the quads, hamstrings, and glutes while also engaging the core for stability and strength.
+2. **Leg Press**: Uses a machine to target the quads with reduced back stress compared to barbell squats, allowing for heavy loading.
+3. **Walking Lunges**: A functional exercise that builds the quads, glutes, and improves balance and coordination through a dynamic range of motion.
+4. **Front Squats**: Places the barbell in front of the shoulders, emphasizing the quads more than back squats and improving core stability.
+5. **Leg Extensions (Machine)**: An isolation exercise focusing solely on the quadriceps, effective for creating definition in the thighs.
+6. **Bulgarian Split Squats**: A single-leg movement that targets the quads and glutes while also improving balance, stability, and unilateral strength.
+7. **Step-Ups**: Engages the quads, glutes, and core, providing a functional movement that enhances lower body power and stability.
